@@ -21,7 +21,7 @@ The BMI Tracker App helps users calculate their Body Mass Index (BMI) based on t
    - Users input their height (in meters or feet/inches) and weight (in kilograms or pounds).
    - The app calculates BMI using the formula:  
      \[
-     BMI = \frac{weight (kg)}{height (m)^2}
+     BMI = {weight (kg)}/{height (m)^2}
      \]
    - The app categorizes the result into BMI ranges (underweight, normal weight, overweight, or obese).
 
